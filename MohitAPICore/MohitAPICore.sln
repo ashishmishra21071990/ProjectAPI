@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MohitAPICore", "MohitAPICore\MohitAPICore.csproj", "{6615BB0F-8A49-4F16-B17F-81264CDE5A6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumeAPI", "ConsumeAPI\ConsumeAPI.csproj", "{87D9A950-7F3D-49A6-93C2-BDDD4CFEB20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6615BB0F-8A49-4F16-B17F-81264CDE5A6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6615BB0F-8A49-4F16-B17F-81264CDE5A6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6615BB0F-8A49-4F16-B17F-81264CDE5A6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6615BB0F-8A49-4F16-B17F-81264CDE5A6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D9A950-7F3D-49A6-93C2-BDDD4CFEB20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D9A950-7F3D-49A6-93C2-BDDD4CFEB20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D9A950-7F3D-49A6-93C2-BDDD4CFEB20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D9A950-7F3D-49A6-93C2-BDDD4CFEB20C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4731857B-A322-4C3B-B2EA-D437149D625E}
+	EndGlobalSection
+EndGlobal
